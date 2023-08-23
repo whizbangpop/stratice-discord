@@ -1,0 +1,20 @@
+{
+  "name": "stratice-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/launcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.quickexit.cc/stratice/stratice-discord-bot.git"
+  },
+  "author": "AviLab (whxpop/Abigail Henderson)",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
